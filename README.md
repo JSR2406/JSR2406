@@ -57,5 +57,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/janmejay-singh-rathore-75338532b)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:janmejaysingh2406@gmail.com)  
-
---->
