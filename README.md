@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Janmejay Singh Rathore  
 
-🚀 **Aspiring Software Engineer** | 🌐 **Web Developer** | 📊 **Data Enthusiast**  
+🚀 **Aspiring AI & ML Engineer ** | 🌐 ** Frontend Developer** | 📊 **Data Enthusiast**  
 
 ---
 
