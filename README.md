@@ -115,8 +115,8 @@
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: **ADD_LINK_HERE**  
-📧 Email: **ADD_EMAIL_HERE**  
+💼 LinkedIn: linkedin.com/janmejay-singh-rathore 
+📧 Email: janmejaysingh2406@gmail.com   
 🐙 GitHub: https://github.com/JSR2406  
 
 ---
