@@ -1,206 +1,354 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:58A6FF&height=200&section=header&text=Janmejay%20Singh%20Rathore&fontSize=42&fontColor=58A6FF&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Analytics%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=🤖+Building+AI-powered+Applications;+📊+Data-driven+Decision+Making;+🌐+End-to-End+Full-Stack+Development;+🧠+Exploring+Agentic+AI+Systems;+🚀+Learning+and+Shipping+Continuously" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:14213D,100:00D4FF&height=220&section=header&text=JANMEJAY%20SINGH%20RATHORE&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20AGENTIC%20SYSTEMS%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=13&descAlignY=59&animation=fadeIn" width="100%" alt="Profile banner"/>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=JSR2406&label=Profile%20Views&color=58A6FF&style=flat-square)](https://github.com/JSR2406)
-[![GitHub Followers](https://img.shields.io/github/followers/JSR2406?label=Followers&style=flat-square&color=58A6FF)](https://github.com/JSR2406?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/JSR2406?label=Stars&style=flat-square&color=58A6FF)](https://github.com/JSR2406)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/janmejay-singh-rathore)
+<a href="https://github.com/JSR2406">
+  <img src="https://img.shields.io/badge/GitHub-JSR2406-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/janmejay-singh-rathore">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+
+<br/><br/>
+
+**Building intelligent systems. Engineering useful software. Contributing to open source.**
+
+*AI/ML · LLM Applications · Agentic AI · Backend Systems · Full-Stack Development*
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `$ whoami`
 
 ```python
-class JanmejaySinghRathore:
+class AIEngineer:
     def __init__(self):
-        self.name       = "Janmejay Singh Rathore"
-        self.degree     = "B.Tech – Artificial Intelligence & Data Science (2024–2028)"
-        self.college    = "DY Patil College of Engineering, Akurdi (DYPCOE), Pune"
-        self.focus      = ["Machine Learning", "Data Analytics", "Full-Stack Engineering", "Agentic AI"]
-        self.location   = "Pimpri-Chinchwad, Maharashtra, India 🇮🇳"
-        self.currently  = "Building production-ready AI & data-driven systems"
-        self.open_to    = ["Internships", "Open-Source", "Hackathons", "AI/ML Roles", "Data Analyst Roles"]
-        self.fun_fact   = "I led a 10-member dev team for our college techfest at age 19"
+        self.name = "Janmejay Singh Rathore"
+        self.username = "JSR2406"
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something impactful together. 🚀")
+        self.domains = [
+            "Artificial Intelligence",
+            "Machine Learning & NLP",
+            "Agentic AI & LLM Applications",
+            "Backend & Full-Stack Engineering",
+            "Data Engineering & Analytics",
+        ]
 
-me = JanmejaySinghRathore()
-me.say_hi()
+        self.interests = [
+            "AI agents and tool orchestration",
+            "Reliable AI application architectures",
+            "Model evaluation and explainability",
+            "Open-source software",
+            "Hackathons and collaborative engineering",
+        ]
+
+        self.current_focus = [
+            "Building end-to-end AI systems",
+            "Improving software quality and reliability",
+            "Learning through implementation",
+        ]
+
+    def philosophy(self):
+        return "Understand the problem. Build the system. Validate the result."
+```
+
+I'm interested in the engineering behind useful AI products: how data moves through a system, how models are evaluated, how agents interact with tools, and how applications are deployed and maintained.
+
+I enjoy taking ideas from prototype to working implementation, collaborating with developers, and improving projects through testing, documentation, and feedback.
+
+---
+
+## `$ cat engineering_domains.md`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <code>01 / AI & Machine Learning</code>
+
+- Supervised learning and classification
+- Data preprocessing and feature engineering
+- Exploratory data analysis
+- Model evaluation and error analysis
+- Explainable AI and model interpretation
+- NLP and intelligent applications
+
+</td>
+<td width="50%" valign="top">
+
+### <code>02 / Agentic AI</code>
+
+- LLM-powered applications
+- Tool calling and workflow orchestration
+- Retrieval-augmented generation (RAG)
+- Multi-step task execution
+- Memory and context management
+- API and service integrations
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <code>03 / Software Engineering</code>
+
+- REST API development
+- React and Next.js applications
+- Backend services with Python
+- Database and authentication integration
+- Frontend-backend integration
+- Git-based collaborative development
+
+</td>
+<td width="50%" valign="top">
+
+### <code>04 / Data & Infrastructure</code>
+
+- Data analysis and visualization
+- SQL and structured data
+- Docker-based development
+- Cloud application deployment
+- Environment and dependency management
+- Debugging and reproducible workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ ls ./featured-projects`
+
+A curated selection of AI, software, and hackathon projects. Each repository should be evaluated through its actual implementation, documentation, and current status.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/JSR2406/EPISPY-DEMO-">EpiSpy</a>
+
+**Agentic AI Systems**
+
+Exploring agent-based workflows, AI integrations, and coordinated task execution.
+
+`Python` `LLMs` `Agent Workflows`
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/JSR2406/Skills-Bridge-">SkillsBridge</a>
+
+**AI-Powered Learning**
+
+A learning and mentorship platform connecting users through technology-assisted learning experiences.
+
+`AI` `Web Development` `Product Engineering`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/JSR2406/zoolingo-">ZooLingo</a>
+
+**Voice-First AI · Hackathon**
+
+Exploring animal vocalization interpretation and voice-based AI interactions.
+
+`Python` `FastAPI` `React` `Audio AI`
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/JSR2406/Market-Research-Agent-">Market Research Agent</a>
+
+**AI-Assisted Research**
+
+An AI-driven research workflow focused on gathering information and producing structured findings.
+
+`Next.js` `FastAPI` `LLM APIs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/JSR2406/MINI-PROJECT-FAKE-NEWS-DETECTOR-">Fake News Detector</a>
+
+**Machine Learning · NLP**
+
+A machine-learning project focused on classifying potentially misleading news content.
+
+`Python` `ML` `Text Classification`
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/JSR2406/GDG-Hackathon-">Eco-Sync / GDG Hackathon</a>
+
+**Sustainability · Civic Technology**
+
+A hackathon project exploring technology-driven sustainability solutions.
+
+`Software Development` `Hackathons`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### <a href="https://github.com/JSR2406/Sambhav3.0-2025">Sambhav 3.0 — TechFest Platform</a>
+
+Collaborative development of a college technology festival website, with a focus on frontend engineering, deployment, and team coordination.
+
+`JavaScript` `HTML` `CSS` `Web Deployment`
+
+**Live demo:** [Sambhav 3.0](https://sambhav-3-0-dypcoe.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+**Explore more:** [All repositories →](https://github.com/JSR2406?tab=repositories)
+
+---
+
+## `$ cat tech-stack.json`
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+### AI / ML / Data
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LLM_Applications-412991?style=flat-square" alt="LLM applications"/>
+</p>
+
+### Frontend / Backend
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### Databases / Infrastructure / Tooling
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
+
+> The stack reflects technologies used or explored across my projects. Specific repositories document their actual dependencies and implementation details.
+
+---
+
+## `$ cat engineering-principles.md`
+
+```text
+01. Problem First
+    Define the use case, requirements, and constraints before implementation.
+
+02. Build in Small, Verifiable Steps
+    Prefer modular code, focused changes, and reproducible workflows.
+
+03. Evaluate, Don't Assume
+    Test model quality, inspect failures, and measure system behavior.
+
+04. Document the System
+    Explain setup, configuration, architecture, and known limitations.
+
+05. Ship Responsibly
+    Protect secrets, validate inputs, handle errors, and review dependencies.
+
+06. Improve Through Feedback
+    Use code reviews, issues, tests, and open-source collaboration.
 ```
 
 ---
 
-## 🚀 Featured Projects
+## `$ git status --short`
 
-### 🤖 AI & Agentic Systems
+My current engineering priorities:
 
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| **🤖 Agentic AI Framework** | Autonomous multi-step reasoning with ReAct loops, tool use, FAISS memory & LangGraph orchestration | Python, LangChain, OpenAI | [Repo](https://github.com/JSR2406/AGENTIC-AI-) |
-| **🗣️ Customer Service Agent** | Production AI agent with FastAPI, GPT-4, Redis memory & decision engine | FastAPI, OpenAI, Redis | [Repo](https://github.com/JSR2406/Customer-Service-Agent-) |
-| **📊 Market Research Agent** | Multi-agent WebSocket platform with Next.js 15, real-time streaming & OpenRouter AI | Next.js, FastAPI, OpenRouter | [Repo](https://github.com/JSR2406/Market-Research-Agent-) |
-| **💼 Sales Generation AI Agent** | Autonomous B2B lead discovery, enrichment & personalized outreach via LangGraph | React, FastAPI, LangGraph | [Repo](https://github.com/JSR2406/SALES-GENERATION-AI-AGENT-) |
-| **🤖 AI Chatbot** | Multimodal chatbot with Gemini 1.5 Flash, image generation & video preview | FastAPI, React, Gemini | [Repo](https://github.com/JSR2406/AI-CHATBOT-) |
-
-### 📊 Data Science & Analytics
-
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| **📈 Stock Prediction Dashboard** | AI stock forecasting for NSE/BSE with LSTM+GRU+XGBoost ensemble, 7-day predictions | FastAPI, React, TensorFlow | [Repo](https://github.com/JSR2406/stock-prediction-dashboard) |
-| **🌱 Carbon Footprint Dashboard** | Real-time campus emissions monitoring via MQTT/WebSockets with AI insights | FastAPI, Supabase, Docker | [Repo](https://github.com/JSR2406/Carbon-footprint-dashboard-) |
-
-### 🌐 Full-Stack Web Applications
-
-| Project | Description | Tech | Live |
-|---------|-------------|------|------|
-| **🏫 SAMBHAV 3.0 Techfest** | Led 10-member team to build official college techfest site supporting 500+ concurrent users | Vite, JS, CSS | [Live](https://sambhav-3-0-kappa.vercel.app) |
-| **🏥 Doctor Clinic Appointment** | Healthcare PWA with AI symptom checker, appointment booking & patient dashboard | PWA, JS, Node.js | [Repo](https://github.com/JSR2406/DOCTOR-CLINIC-APPOINTMENT-WEBSITE-) |
-| **🏠 RoomFinder Platform** | Location-based PG & room finder for Pune/PCMC with smart filters | React, TypeScript, Vite | [Live](https://roomfinder-website.vercel.app) |
-| **🛒 E-Commerce Store** | Premium e-commerce frontend with Figma-designed UI, Radix UI & Framer Motion | React, Vite, Tailwind | [Live](https://ecommerce-store-invicis-projects.vercel.app) |
-| **🚀 ProjectHub Platform** | Client-service matching platform with AI chatbot and Supabase backend | Next.js, TypeScript, Supabase | [Live](https://projecthub-steel.vercel.app) |
-
-### 💼 FinTech & SaaS
-
-| Project | Description | Tech | Live |
-|---------|-------------|------|------|
-| **💰 GCC Wealth Platform** | AI-powered wealth management for GCC markets (Tadawul, DFM, ADX) with Stripe | Next.js, FastAPI, PostgreSQL | [Live](https://wealth-platform-user-app.vercel.app) |
-| **🚀 SkillBridge** | Peer-to-peer AI learning platform with mentorship, Razorpay payments & gamification | Next.js, Firebase, OpenRouter | [Repo](https://github.com/JSR2406/Skills-Bridge-) |
-
-### 🌍 Smart Campus & Civic Tech
-
-| Project | Description | Tech | Live |
-|---------|-------------|------|------|
-| **🌏 Campus Cleanliness System** | Role-based campus issue reporting with AI routing, SLA tracking & analytics | React, Express, SQLite | [Live](https://campus-clean-system-demo.vercel.app) |
-
-### 🛠️ Productivity Tools
-
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| **✅ Task Management Dashboard** | Smart task management with priority labels, analytics & deadline tracking | Next.js, TypeScript | [Repo](https://github.com/JSR2406/Task-management-dashboard-) |
-| **🧾 AI Receipt Assistant** | AI-powered receipt OCR, expense categorization & financial summaries | Next.js, TypeScript, AI | [Repo](https://github.com/JSR2406/AI-Receipt-Assistant-) |
-| **📣 Voice Personal Assistant** | Python voice automation for Windows 11 with Google STT & 30+ commands | Python, SpeechRecognition | [Repo](https://github.com/JSR2406/Voice-based-personal-assistant) |
-
-### 🌿 Hackathon Projects
-
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| **🦊 ZooLingo** | Voice-first AI agent translating animal vocalizations — Built for IIT Bombay Techfest | FastAPI, React, Murf Falcon | [Repo](https://github.com/JSR2406/zoolingo-) |
+- [ ] Build and evaluate end-to-end ML and NLP applications.
+- [ ] Improve reliability in agentic workflows and LLM integrations.
+- [ ] Develop maintainable APIs and full-stack AI products.
+- [ ] Strengthen testing, deployment, and reproducibility practices.
+- [ ] Contribute code, documentation, tests, and bug fixes to open-source projects.
+- [ ] Collaborate on technically challenging hackathons and developer tools.
 
 ---
 
-## 🛠️ Tech Stack
+## `$ cat CONTRIBUTING.md`
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Open to meaningful collaboration.**
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+I welcome developers, ML practitioners, researchers, designers, and hackathon teams interested in building useful software.
 
-### ⚙️ Backend & AI
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+Ways to contribute:
 
-### 🗄️ Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- **Code:** bug fixes, features, refactoring, and performance improvements.
+- **AI/ML:** data validation, model evaluation, reproducible experiments, and error analysis.
+- **Infrastructure:** testing, deployment workflows, configuration, and reliability.
+- **Documentation:** setup guides, architecture explanations, tutorials, and examples.
+- **Ideas:** issue reports, feature proposals, and constructive technical feedback.
+
+### Contribution workflow
+
+1. Check the repository README, license, and existing issues.
+2. Open an issue to discuss substantial changes before investing in implementation.
+3. Fork the repository and create a focused feature branch.
+4. Follow the project's setup and coding conventions.
+5. Test your changes and document how they were verified.
+6. Submit a pull request explaining the motivation, implementation, and testing.
+
+**Important:** Contributions are subject to each repository's license and maintainer guidelines. Check the target repository before submitting work.
 
 ---
 
-## 📊 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JSR2406&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSR2406&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JSR2406&theme=github-dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JSR2406&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1a2a4a&hide_border=true&radius=6" />
-</div>
-
----
-
-## 🏆 Certifications & Achievements
-
-| 🏅 Certification / Achievement | 🔗 Issuer / Platform | Status |
-|---|---|---|
-| Cisco Certified – Data Analytics | Cisco Networking Academy | ✅ Certified |
-| AICTE EduSkills – Full-Stack Python Developer | AICTE / EduSkills | ✅ Completed |
-| Full-Stack Web Development Internship | Industry Experience | ✅ Completed |
-| 40+ DSA Problems Solved | C++ — LeetCode | 🔄 Ongoing |
-| Active Hackathon Participant | Multiple Coding Contests | 🏁 Active |
-| College Techfest Lead Developer | DYPCOE — SAMBHAV 3.0 | ✅ Completed |
-
----
-
-## 🎯 Current Focus
-
-```
-🤖  Agentic AI Systems & LLM Orchestration
-📊  Advanced Data Analytics & ML Deployment
-🌐  Full-Stack React / Next.js Projects
-🏆  Placement Preparation (DSA + System Design)
-💡  RAG Pipelines & Vector Databases
-```
-
----
-
-## 📊 Skill Progress
-
-| Skill | Level |
-|---|---|
-| Python & Data Science | ████████░░ Advanced |
-| Machine Learning & AI | ██████░░░░ Intermediate |
-| Full-Stack Web Dev | ███████░░░ Intermediate–Advanced |
-| Data Analytics & Power BI | ████████░░ Advanced |
-| C++ / DSA | █████░░░░░ Intermediate |
-| Agentic AI Systems | ████░░░░░░ Growing |
-| Cloud & DevOps | ███░░░░░░░ Learning |
-
----
-
-## 🌐 Connect With Me
+## `$ ./connect.sh`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janmejay-singh-rathore)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janmejaysingh2406@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JSR2406)
+Interested in AI engineering, open-source development, research implementations, or hackathon collaboration?
 
-</div>
+<br/>
 
----
+<a href="https://github.com/JSR2406">
+  <img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories"/>
+</a>
+<a href="https://linkedin.com/in/janmejay-singh-rathore">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
+</a>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a1f35,100:0D1117&height=120&section=footer&text=Building.%20Learning.%20Scaling.&fontSize=20&fontColor=58A6FF&fontAlignY=65&animation=fadeIn"/>
-
-### ⭐ Open to AI/ML, Full-Stack & Data Analyst Internship Opportunities
-
-*"The best way to predict the future is to build it."*
+*Build thoughtfully. Test rigorously. Share what you learn.*
 
 </div>
